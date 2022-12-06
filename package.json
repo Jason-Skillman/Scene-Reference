@@ -1,7 +1,7 @@
 {
   "name": "com.jasonskillman.scenereference",
   "displayName": "Scene Reference",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a scene reference to the Unity inspector.",
   "author": {
     "name": "Jason Skillman",
